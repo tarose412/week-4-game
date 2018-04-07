@@ -1,0 +1,38 @@
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-image: url("../../assets/images/background.png");
+}
+
+h1 {
+  background-color: red;
+  color: white;
+  width: 30%;
+}
+
+#body-text {
+  background-color: cornflowerblue;
+  width: 60%;
+}
+
+#random-score-div {
+  background-color: teal;
+  width: 25%;
+  color: white;
+  font-weight: bolder;
+  font-size: 48px;
+  padding-bottom: 25px;
+}
+
+#wins-losses-div {
+  background-color: forestgreen;
+  width: 30%;
+  font-size: 28px;
+}
+
+#total-score-div, #user-score-div {
+  background-color: palevioletred;
+  width: 25%;
+  font-size: 36px;
+  font-weight: bold;
+  color: white;
+}
